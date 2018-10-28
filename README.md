@@ -10,4 +10,8 @@ We presented the mechanical files we designed in the 'mechfile' fold, and some u
 
 Details are shown as follow:
 
-![Image text](https://github.com/eleboss/UAMmech/blob/master/uam.jpg)
+![Image text](https://github.com/eleboss/UAMmech/blob/master/detail%20pic/sliderdownside.jpg)
+![Image text](https://github.com/eleboss/UAMmech/blob/master/detail%20pic/sensors.jpg)
+![Image text](https://github.com/eleboss/UAMmech/blob/master/detail%20pic/arm.jpg)
+![Image text](https://github.com/eleboss/UAMmech/blob/master/detail%20pic/laser%26slider.jpg)
+
